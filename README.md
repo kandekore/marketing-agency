@@ -10,4 +10,4 @@ Based on the instructions given in the homework document, the code was cloned an
 6. Semantic HTML tags were added
 7. The CSS commands were grouped and labelled based on the different sections of the page
 
-#Screenshot (/images/screenshot.jpg)
+#[Screenshot](./assets/images/screenshot.jpg)
